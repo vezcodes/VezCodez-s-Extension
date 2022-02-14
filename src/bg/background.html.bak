@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script type="text/javascript" src="background.js"></script>
+</head>
+
+<style>
+body {
+  background-image: url('https://i.imgur.com/nxF2XVx.png');
+  overflow: hidden;
+  overflow-x: hidden;
+}
+</style>
+</html>
